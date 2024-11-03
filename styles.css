@@ -8,6 +8,7 @@ h1{
     display: block;
     text-align: center;
     padding: 0 auto;
+    margin: 0 auto;
     
 }
 img{
@@ -17,5 +18,8 @@ img{
     width: 50%;
 }
 .paragraph{
+    text-align: center;
+}
+p{
     text-align: center;
 }
